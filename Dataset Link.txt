@@ -1,0 +1,9 @@
+2 are inbuilt
+1. from skmultiflow.data import ConceptDriftStream
+More details on this dataset can be found from here
+https://scikit-multiflow.readthedocs.io/en/stable/api/generated/skmultiflow.data.ConceptDriftStream.html
+2. Employee_data.csv is attached here with this email.
+3. from sklearn.datasets import load_diabetes
+For more details:
+(https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset)
+https://www4.stat.ncsu.edu/~boos/var.select/diabetes.tab.txt
